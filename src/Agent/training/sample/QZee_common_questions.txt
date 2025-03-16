@@ -1,0 +1,86 @@
+# QZee: Sample Responses to Common Questions
+
+## General Product Questions
+
+### What makes QZee different from other booking solutions?
+QZee stands out through our intuitive design combined with powerful AI-driven features. Unlike other platforms that prioritize either simplicity or functionality, we've created a solution that offers both. Our system adapts to your business needs rather than forcing you to adapt to it. Plus, our clients typically see a 30% reduction in no-shows and significant administrative time savings within the first month.
+
+### Is QZee suitable for my industry?
+Absolutely! QZee was designed to be versatile across multiple industries. We have specialized features for healthcare, beauty and wellness, professional services, fitness, education, and hospitality. Our platform can be customized to match your specific workflow, terminology, and service structure. We'd be happy to show you examples of how similar businesses in your industry are using QZee successfully.
+
+### How long does it take to set up QZee?
+Most businesses are up and running with QZee in less than a day. Our guided setup wizard walks you through the process step by step, and our pre-built templates for different industry types make it even faster. For more complex implementations, our onboarding specialists can provide personalized assistance. The best part? You can start taking bookings even while you're still customizing other aspects of your account.
+
+### What size business is QZee designed for?
+QZee scales beautifully from solopreneurs to multi-location enterprises. Our flexible pricing means you only pay for what you need, and our features grow with your business. Whether you're a single practitioner looking to streamline your calendar or a large organization managing dozens of staff members across multiple locations, QZee has the tools and capacity to support your scheduling needs.
+
+### How secure is my data with QZee?
+Security is a top priority at QZee. We use end-to-end encryption for all data, conduct regular security audits, and maintain compliance with GDPR, CCPA, and industry-specific regulations like HIPAA for healthcare providers. Your client information is stored in secure, redundant systems with regular automated backups. We also implement role-based access controls so you can determine exactly what each team member can view or modify.
+
+## Features & Functionality
+
+### Can clients book appointments outside of business hours?
+Yes! One of the biggest advantages of QZee is that your booking page works 24/7, allowing clients to schedule appointments whenever it's convenient for them. Our data shows that about 35% of bookings happen outside regular business hours, which means you're capturing business even while you sleep. You maintain full control over which time slots are available, and the system automatically prevents bookings during times you've marked as unavailable.
+
+### How does QZee help reduce no-shows?
+QZee tackles no-shows through several effective strategies. Our automated reminder system sends customizable SMS and email notifications at intervals you define (like 24 hours and 1 hour before appointments). You can also require deposits or full payments at booking, which significantly increases commitment. For clients who do miss appointments, our system can automatically tag them for follow-up or apply your cancellation policy. These features typically reduce no-shows by 25-30%.
+
+### Can I customize the booking page to match my brand?
+Absolutely! QZee offers complete white-label customization. You can add your logo, select your brand colors, use custom imagery, and even set up a branded URL (like booking.yourbusiness.com). The booking page is fully responsive and looks great on any device. You can also customize the booking flow, add intake forms, and create a seamless experience that feels like an extension of your website.
+
+### Does QZee integrate with my existing tools?
+QZee was built with integration in mind. We connect seamlessly with popular calendar systems (Google, Outlook, Apple), payment processors (Stripe, PayPal, Square), marketing tools (Mailchimp, HubSpot), business software (QuickBooks, Xero, Salesforce), and communication platforms (Twilio, SendGrid). If you use a specialized tool that's not on our standard integration list, our API makes custom integrations possible too.
+
+### Can I manage multiple staff members and locations?
+Yes, QZee excels at managing complex scheduling scenarios. You can set individual availability for each staff member, assign services based on skills and qualifications, and manage multiple locations from a single dashboard. Clients can book with specific staff members or let the system suggest the best match based on availability and expertise. You can also set up resource management for rooms, equipment, or other assets that need to be scheduled alongside staff.
+
+## Implementation & Support
+
+### How do I transfer my existing client data to QZee?
+Migrating to QZee is straightforward. Our system allows you to import client information and appointment history via CSV files, which most existing systems can export. For larger businesses, our team can assist with custom data migration. We also provide tools to help you communicate the transition to your clients, including email templates and booking page announcements. Your historical data remains accessible for reporting and client management.
+
+### What kind of support does QZee provide?
+We offer comprehensive support through multiple channels. All plans include access to our knowledge base, video tutorials, and email support. Higher-tier plans add live chat, phone support, and dedicated account managers. We also provide regular webinars for new features and best practices. Our average response time for support inquiries is under 2 hours during business hours, and our customer satisfaction rating for support is consistently above 95%.
+
+### Can I try QZee before committing?
+Absolutely! We offer a 14-day free trial with full access to all features. No credit card is required to start your trial, and you can set up your account, customize your booking page, and even take test bookings to see how the system works for your specific needs. If you decide to continue after the trial, your settings and data transfer seamlessly to your paid account.
+
+### Is there training available for my team?
+Yes, we provide comprehensive training resources for you and your team. This includes on-demand video tutorials, step-by-step guides, and regular live webinars. For businesses on our higher-tier plans, we also offer personalized training sessions tailored to your specific use case. Many clients find that our intuitive interface requires minimal training, but we're always available to help your team maximize the value of QZee.
+
+### What happens if I need help with a specific feature?
+Our support team is highly trained on all aspects of the QZee platform and can assist with any feature-specific questions. For more complex scenarios, we can schedule one-on-one sessions to walk through your particular use case. We also maintain an active user community where you can share ideas and best practices with other QZee users. Our product team actively monitors feature requests to continuously improve the platform.
+
+## Technical Questions
+
+### Is QZee cloud-based or do I need to install software?
+QZee is a fully cloud-based SaaS (Software as a Service) solution, which means there's nothing to install or maintain on your end. You access the system through any web browser, and your clients book through your customized booking page. We also offer mobile apps for both you and your clients to manage appointments on the go. All updates and maintenance are handled automatically, so you're always using the latest version.
+
+### How does QZee handle different time zones?
+QZee has sophisticated time zone management built in. The system automatically detects your clients' time zones and displays available slots in their local time, while maintaining your schedule in your time zone. This eliminates confusion and prevents scheduling errors when working with clients in different geographical areas. All confirmations and reminders also include clear time zone information to ensure everyone is on the same page.
+
+### What happens if there's an internet outage?
+While QZee requires internet access for full functionality, we've built in several safeguards for connectivity issues. The system automatically saves your work as you go, so you won't lose data if your connection drops. Our mobile app can also function with limited capabilities during brief outages. For planned internet maintenance, you can download your day's schedule in advance. Once connectivity is restored, the system automatically syncs any updates.
+
+### Can QZee handle high traffic volumes?
+Absolutely. Our infrastructure is built on enterprise-grade cloud services with automatic scaling to handle traffic spikes. Whether you're running a flash sale, launching a new service, or experiencing seasonal demand, QZee maintains fast performance even with thousands of simultaneous users. We regularly stress-test the system to ensure reliability during peak periods.
+
+### How often is the system updated?
+We release updates on a regular schedule, typically every 2-3 weeks for minor improvements and quarterly for major feature additions. Updates happen seamlessly in the background without disrupting your service. For significant changes, we provide advance notice and documentation to help you take advantage of new capabilities. We also maintain a public roadmap so you can see what enhancements are coming and provide input on future development.
+
+## Pricing & Business Questions
+
+### How is QZee priced?
+QZee offers transparent, subscription-based pricing at just £15 per month with no hidden costs or additional fees. This affordable rate includes all core features and unlimited bookings. There are no per-booking charges or surprise costs. We integrate seamlessly with Stripe for payment processing, allowing you to accept online payments from your clients with ease. You can upgrade or downgrade your plan as your needs change, and we offer excellent value compared to other booking solutions on the market.
+
+### What's the return on investment with QZee?
+Most businesses see a positive ROI within the first month of using QZee. The combination of reduced no-shows (typically 30% improvement), administrative time savings (60-80% reduction in scheduling tasks), extended booking hours (35% of bookings occur outside business hours), and improved client retention creates significant value. Our clients report an average 27% increase in overall booking volume after implementing QZee.
+
+### Can I accept payments through QZee?
+Yes, QZee includes integrated payment processing that allows you to collect deposits, full payments, or sell packages and memberships directly through the booking system. We integrate with major payment processors including Stripe, PayPal, and Square, with competitive transaction rates. You can set different payment requirements for different services, implement cancellation policies with automatic enforcement, and generate financial reports for your accounting.
+
+### How does QZee help with marketing my business?
+QZee includes several marketing-friendly features. Your booking page can be shared directly on social media or embedded on your website. The system can automatically request reviews after appointments, helping build your online reputation. Our email tools let you send targeted promotions based on booking history and client preferences. We also provide analytics to help you identify your most popular services and optimal promotional timing.
+
+### What if my business needs change?
+QZee is designed to be flexible and grow with your business. You can easily add staff members, locations, or services as you expand. Our customizable workflows adapt to changing business models, and our regular feature updates ensure the platform evolves alongside industry trends. If you need to adjust your subscription level, you can upgrade or downgrade at any time. We also welcome feature requests to help shape our product roadmap. 

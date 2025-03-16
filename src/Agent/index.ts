@@ -58,19 +58,29 @@ export function chooseCharacter(): any {
     if (jsonFiles.length === 0) {
         throw new Error("No character JSON files found");
     }
-    console.log("Select a character:");
+    
+    // Log available characters but automatically select QZee
+    console.log("Available characters:");
     jsonFiles.forEach((file, index) => {
         console.log(`${index + 1}: ${file}`);
     });
-    const answer = readlineSync.question("Enter the number of your choice: ");
-    const selection = parseInt(answer);
-    if (isNaN(selection) || selection < 1 || selection > jsonFiles.length) {
-        throw new Error("Invalid selection");
+    
+    // Find QZee character file
+    const qzeeIndex = jsonFiles.findIndex(file => file.toLowerCase().includes("qzee"));
+    if (qzeeIndex !== -1) {
+        console.log(`Automatically selecting character: ${jsonFiles[qzeeIndex]}`);
+        const chosenFile = path.join(charactersDir, jsonFiles[qzeeIndex]);
+        const data = fs.readFileSync(chosenFile, "utf8");
+        const characterConfig = JSON.parse(data);
+        return characterConfig;
+    } else {
+        // If QZee not found, select the first character
+        console.log(`QZee character not found. Automatically selecting character: ${jsonFiles[0]}`);
+        const chosenFile = path.join(charactersDir, jsonFiles[0]);
+        const data = fs.readFileSync(chosenFile, "utf8");
+        const characterConfig = JSON.parse(data);
+        return characterConfig;
     }
-    const chosenFile = path.join(charactersDir, jsonFiles[selection - 1]);
-    const data = fs.readFileSync(chosenFile, "utf8");
-    const characterConfig = JSON.parse(data);
-    return characterConfig;
 }
 
 export function initAgent(): any {
